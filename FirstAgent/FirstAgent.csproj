@@ -10,7 +10,6 @@
   <ItemGroup>
     <PackageReference Include="Google.GenAI" />
     <PackageReference Include="Microsoft.Agents.AI" />
-    <PackageReference Include="Microsoft.Agents.AI.Anthropic" />
     <PackageReference Include="Microsoft.Extensions.AI" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" />
     <PackageReference Include="OllamaSharp" />
